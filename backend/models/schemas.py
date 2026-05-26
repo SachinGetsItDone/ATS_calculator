@@ -24,7 +24,7 @@ class SkillValidationDetails(BaseModel):
 
 class IssueDetail(BaseModel):
     issue_title: semantic_similarity
-    severity_level: str
+    severity_level: str # prority of issues
     ats_impact: str
     explanation: str
     where_it_appears: str
