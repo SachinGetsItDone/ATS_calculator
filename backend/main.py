@@ -80,5 +80,5 @@ if __name__=='__main__':
         'backend.main:app',
         host    = '0.0.0.0',
         port    = 8000,
-        reload  = True,    # Auto-restart on code changes (dev only)
+        reload  = True,    
     )
