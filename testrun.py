@@ -1,1 +1,0 @@
-createtablepublic.analyses(idbigintgeneratedbydefaultasidentityprimarykey,user_iduuidnotnull,filenametextnotnull,ats_scorenumeric,keyword_matchnumeric,missing_keywordsjsonbdefault'[]'::jsonb,analysis_resultjsonbnotnull,created_attimestamptzdefaultnow())
